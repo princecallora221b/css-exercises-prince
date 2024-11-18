@@ -1,0 +1,9 @@
+/* External Method styling */
+
+div {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}

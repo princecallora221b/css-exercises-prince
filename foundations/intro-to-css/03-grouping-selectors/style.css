@@ -1,0 +1,13 @@
+.now, .instead{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.now{
+    background-color: black;
+    color: white;
+}
+
+.instead{
+    background-color: yellow;
+}
